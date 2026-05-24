@@ -1,4 +1,4 @@
-# 🤖 Reasoning Agent: AI-Powered Blog Generation System
+# 🤖 OmniBlog: AI-Powered Blog Generation System
 
 A sophisticated autonomous AI agent that generates high-quality technical blog posts using multi-step reasoning, web research, and content orchestration. Built with LangGraph, LangChain, and advanced LLM capabilities.
 
